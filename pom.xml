@@ -69,6 +69,13 @@
             <version>1.18.22</version>
             <optional>true</optional>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.jena</groupId>
+            <artifactId>apache-jena-libs</artifactId>
+            <type>pom</type>
+            <version>4.7.0</version>
+        </dependency>
     </dependencies>
 
 </project>
